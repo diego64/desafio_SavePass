@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="Ignite" title="Ignite" src=".github/imagem.svg" />
-</h1>
-
 <h2 align="center">Desafio - SavePass</h2>
 
 </br>
