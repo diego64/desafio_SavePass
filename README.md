@@ -23,16 +23,6 @@ Implementar uma aplicação de gerenciamento de senhas: SavePass.
 
 Essa aplicação possui duas telas, sendo a primeira delas uma listagem das senhas salvas e a segunda a tela de cadastro de novos logins.
 
-## 📦 Telas
-
-<p align="center">
-
-<img width="400" height="500" alt="tela_01" title="tela_01" src=".github/tela_01.png" />
-<img width="400" height="500" alt="tela_02" title="tela_02" src=".github/tela_02.png" />
-<img width="400" height="500" alt="tela_03" title="tela_03" src=".github/tela_03.png" />
-
-</p>
-
 ## 📦 Rodando a aplicação
 
 - Clone o repositório
