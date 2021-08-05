@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite" title="Ignite" src=".github/imagem.png" />
+    <img alt="Ignite" title="Ignite" src=".github/imagem.svg" />
 </h1>
 
 <h2 align="center">Desafio - SavePass</h2>
@@ -27,9 +27,9 @@ Essa aplicação possui duas telas, sendo a primeira delas uma listagem das senh
 
 <p align="center">
 
-<img width="300" height="300" alt="tela_01" title="tela_01" src=".github/tela_01.png" />
-<img width="300" height="300" alt="tela_02" title="tela_02" src=".github/tela_02.png" />
-<img width="300" height="300" alt="tela_03" title="tela_03" src=".github/tela_03.png" />
+<img width="600" height="300" alt="tela_01" title="tela_01" src=".github/tela_01.png" />
+<img width="600" height="300" alt="tela_02" title="tela_02" src=".github/tela_02.png" />
+<img width="600" height="300" alt="tela_03" title="tela_03" src=".github/tela_03.png" />
 
 </p>
 
